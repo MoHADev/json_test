@@ -1,41 +1,17 @@
 {
-  "search_list": [
-    {
-      "id_place": "5",
-      "place_name": "ممد",
-      "distance": "۰",
-      "type": "1",
-    },
 
-    {
-      "id_place": "2",
-      "place_name": "استخر الهیه",
-      "distance": "۸۰۰",
-      "type": "3",
-    },
-    {
-      "id_place": "3",
-      "place_name": "استخر قلهک",
-      "distance": "۱۲۰۰",
-      "type": "1",
-    },
-    {
-      "id_place": "4",
-      "place_name": "استخر نیکان",
-      "distance": "۶۵۰",
-      "type": "3",
-    },
-    {
-      "id_place": "1",
-      "place_name": "مجموعه شهید چمران",
-      "distance": "۴۵۰",
-      "type": "1",
-    },
-    {
-      "id_place": "6",
-      "place_name": "استخر پاسداران",
-      "distance": "۴۵۰",
-      "type": "1",
-    }
-  ]
+    "items": [
+        {
+            "index": 1,
+            "index_start_at": 56,
+            "integer": 7,
+            "float": 17.7871,
+            "name": "Marcus",
+            "surname": "Schultz",
+            "fullname": "Darlene Jones",
+            "email": "caroline@wallace.do",
+            "bool": true
+        }
+    ]
+
 }
