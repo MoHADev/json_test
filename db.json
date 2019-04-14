@@ -24,6 +24,19 @@
       "category_name": "بسکتبال"
     }
 
+  ],
+  "favorite_list": [{
+      "id_place": "1",
+      "place_name": "مجموعه شهید چمران"
+    },
+    {
+      "id_place": "3",
+      "place_name": "استخر قلهک"
+    },
+    {
+      "id_place": "2",
+      "place_name": "استخر الهیه"
+    }
   ]
 
 
