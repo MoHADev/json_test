@@ -1,23 +1,31 @@
 {
 
-    "ticket": [
-        {
-            "id_user": "1",
-            "id_place": "1",
-            "place_name": "مجموعه شهید چمران",
-            "name": "محمد حسن اکبریان",
-            "count": "1",
-            "date": "",
-            "time": "۹۷/۱۲/۱۰",
-            "type": "1",
-            "start_time": "۸:۳۰",
-            "finish_time": "۲۳:۳۰",
-            "address": "تهران/ خیابان شریعتی/ بالاتر از پل صدر",
-            "phone": "۰۲۱۲۲۹۶۴۴۴۴",
-            "ticket_number": "12688421-15",
-            "time_add": "۱۹:۴۷",
-            "date_add": "۹۷/۱۲/۰۵"
-        }
-    ]
+  "user_profile": [{
+    "id_user": "1",
+    "name": "محمد حسن اکبریان",
+    "avatar_url": "url",
+    "id_user_group": "1",
+    "user_group": "کاربر عادی",
+    "mobile": "09364842157",
+    "credit_number": "5022291064002445",
+    "id_city": "72",
+    "city": "تهران"
+  }],
+  "favorite_category": [{
+      "id_category": "1",
+      "category_name": "بیلیارد"
+    },
+    {
+      "id_category": "2",
+      "category_name": "استخر"
+    },
+    {
+      "id_category": "3",
+      "category_name": "بسکتبال"
+    }
+
+  ]
+
+
 
 }
